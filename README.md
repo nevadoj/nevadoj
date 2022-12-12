@@ -1,6 +1,4 @@
-### Hello 👋 
-
-My name is Joseph and I'm a Computer Science undergraduate student at Simon Fraser University.
+works in progress
 \
 \
 \
